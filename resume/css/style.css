@@ -1,0 +1,32 @@
+  body {
+    font-size: 20px;
+    background-color: #efefef;
+    margin: 0;
+  }
+  h1 {
+    font-size: 26px;
+    text-align: center;
+  }
+  img.my_photo {
+    display: block;
+    margin: 0 auto;
+  }
+  div.backg {
+    background-color: white;
+    max-width: 500px;
+    margin: 2px auto 40px;
+    border: 1px solid #d6d6d6;
+    box-shadow: 0 0 2px #d6d6d6;
+    padding: 50px 50px 20px;
+    height: 750px;
+  }
+  hr {
+    width: 480px;
+    margin:auto;
+  }
+  p {
+    margin-left: 35px;
+  }
+  ul {
+    margin-left: 30px;
+  }
